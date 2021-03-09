@@ -2,11 +2,17 @@
 Windows Server 2019 Github with RDP Access (ngrok AP) 
 
 Create a free VPS with Github:
+
 7Gb RAM
+
 2 vCPU
+
 85 Gb HDD
+
 Windows Server 2019
+
 Download speed 75Mb / s
+
 Can only be used for 6 hours
 
 + Click Fork in the right corner of the screen to save it to your Github.
