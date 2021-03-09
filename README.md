@@ -4,7 +4,7 @@ Windows Server 2019 Github with RDP Access (ngrok AP)
 Create a free VPS with Github:
 7Gb RAM
 2 vCPU
-HDD FREE 80 Gb
+85 Gb HDD
 Windows Server 2019
 Download speed 75Mb / s
 Can only be used for 6 hours
